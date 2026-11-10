@@ -17,45 +17,45 @@
 * 🎓 Estudante do **Ensino Médio** e do curso técnico de **Desenvolvimento de Sistemas no SENAI**.
 * 💡 Apaixonado por tecnologia, automação e desenvolvimento de software.
 * 🧠 Sempre a aprender novas ferramentas para transformar ideias em soluções práticas.
-* 🎯 **Objetivo:** Tornar-me um desenvolvedor de software qualificado e criar projetos de alto impacto.
+* 🎯 **Objetivo:** Tornar-me um desenvolvedor de software avançado e criar projetos de alto impacto.
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Linguagens & Tecnologias
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,sql,sqlite,git,github,vscode,figma" alt="Tech Stack"/>
+</p>
+
+### 📈 O que estou a aprender atualmente
+* **HTML/CSS Avançado:** Refinando conceitos de layout e estilização moderna.
+* **JavaScript & Python:** Focado em lógica de programação e automações.
+* **Banco de Dados (SQL/SQLite):** Estruturação e consulta de dados.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotelesr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotelesr&layout=compact&theme=dark"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaotelesr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
 
-<br/>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaotelesr&theme=dark"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotelesr&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaotelesr&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## 📈 Atividade Recente (Contribution Graph)
+## 📈 Gráfico de Contribuições
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaotelesr&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaotelesr&theme=react-dark" alt="Contribution Graph"/>
+</p>
 
 ---
 
 <div align="center">
-  <sub>🔥 Perfil em constante atualização e evolução!</sub>
+  <sub>🔥 Perfil em constante atualização e evolução! Desenvolvido por João Teles.</sub>
 </div>
