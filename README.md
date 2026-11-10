@@ -41,10 +41,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaotelesr&theme=radical&background=0d1117" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotelesr&layout=compact&theme=radical&bg_color=0d1117" alt="Top Langs"/>
-</p>
-
 ---
 
 <div align="center">
