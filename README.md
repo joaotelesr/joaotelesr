@@ -1,51 +1,61 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://github.com/joaotelesr/imagem_perfil/blob/main/a_clean_dark_minimalist_vector_cartoon_illustrat.png"  />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-43a0-b70c-e091255b5d09.gif" width="600" alt="Coding GIF"/>
+  
+  # Olá, Sou o João Teles! 👋
+  ### 🚀 Futuro Desenvolvedor Full-Stack | Entusiasta de IA e Automação
+
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEUNUMERO)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEUSERVIDOR)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEUUSUARIO)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEUUSUARIO)
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="https://wa.me/5511910831387" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://discord.com/users/726601634854994071" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/joaotelesr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+## 👨‍💻 Sobre Mim
+
+* 🎓 Estudante do **Ensino Médio** e do curso técnico de **Desenvolvimento de Sistemas no SENAI**.
+* 💡 Apaixonado por tecnologia, automação e desenvolvimento de software.
+* 🧠 Sempre a aprender novas ferramentas para transformar ideias em soluções práticas.
+* 🎯 **Objetivo:** Tornar-me um desenvolvedor de software qualificado e criar projetos de alto impacto.
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
+
+### 💻 Linguagens & Tecnologias
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaotelesr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotelesr&layout=compact&theme=dark"/>
 </div>
 
-###
+<br/>
 
-<h1 data-importer="text" align="center">Olá 👋</h1>
-
-###
-
-<h3 data-importer="text" align="left">👩‍💻  Sobre Mim</h3>
-
-###
-
-<p data-importer="text" align="left">I'm João Teles, a high school student and Systems Development student at SENAI, currently in the 2nd semester of a 4-semester program.<br><br>💻 I'm passionate about technology and software development, always looking for opportunities to learn, experiment, and turn ideas into practical solutions.<br><br>🚀 My interests include:<br>- Web Development<br>- Artificial Intelligence and AI Agents<br>- Automation and Software Engineering<br>- Databases and Data Management<br><br>🛠️ Currently learning: HTML, CSS, SQL, and SQLite.<br><br>🎯 My goal: To become a skilled software developer, build meaningful projects, and explore how technology can solve real-world problems.<br><br>📚 I believe in continuous learning, consistency, and improving a little every day.<br><br>🌎 I'm using GitHub to document my learning journey, share my projects, and connect with other developers.</p>
-
-###
-
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<div align="center">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaotelesr&theme=dark"/>
 </div>
 
-###
+---
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+## 📈 Atividade Recente (Contribution Graph)
 
-###
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaotelesr&theme=react-dark)
+
+---
+
+<div align="center">
+  <sub>🔥 Perfil em constante atualização e evolução!</sub>
+</div>
