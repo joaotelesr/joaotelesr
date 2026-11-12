@@ -25,7 +25,7 @@
 
 ### 💻 Linguagens & Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,sql,sqlite,git,github,vscode,figma" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,sqlite,git,github,vscode,figma" alt="Tech Stack"/>
 </p>
 
 ### 📈 O que estou a aprender atualmente
